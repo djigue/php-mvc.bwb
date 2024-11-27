@@ -1,2 +1,2 @@
 <?php
-echo "Bienvenue dans votre application PHP MVC !";
+echo "'Bienvenue dans votre application PHP MVC !'";
